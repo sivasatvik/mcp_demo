@@ -19,7 +19,16 @@
     export PGSEARCHPATH=agent
     ```
 
-3. **Start the application**
+3. **Add the OpenAI API key**
+    Create a `.env` file in the root directory of your project and add the following line:
+    ```env
+    export OPENAI_API_KEY='your-openai-api-key'
+    ```
+
+4. **Start the application**
+    ```bash
+    python app.py
+    ```
     ```bash
     python app.py
     ```
