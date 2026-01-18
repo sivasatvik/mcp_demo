@@ -29,9 +29,6 @@
     ```bash
     python app.py
     ```
-    ```bash
-    python app.py
-    ```
 
 4. **Access the application**
     Open your browser and navigate to `http://localhost:8050`. Enter your request in the input field and click the submit button to see the agent in action.
